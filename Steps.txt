@@ -41,11 +41,8 @@ git commit -am "info about preferences and skills"
 git push
 
 На веб интерфейсе создать файл bug_report.json;
-
 Сделать Commit changes (сохранить) изменения на веб интерфейсе;
-
 На веб интерфейсе модифицировать файл bug_report.json, добавить баг репорт в формате JSON;
-
 Сделать Commit changes (сохранить) изменения на веб интерфейсе;
 
 Синхронизировать внешний и локальный репозиторий JSON.
