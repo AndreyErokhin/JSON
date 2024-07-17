@@ -36,6 +36,7 @@ touch skills.json
 vim skills.json
 
 Отправить сразу 2 файла на внешний репозиторий;
+git add .
 git commit -am "info about preferences and skills"
 git push
 
